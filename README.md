@@ -15,7 +15,7 @@
 - 🌱 Actively learning and applying concepts in **AI, ML, and Computer Vision**
 - 🛠️ Interested in **Problem Solving, Open Source, and Automation Tools**
 - 🤝 Always open to **collaborating on impactful tech projects**
-- 📫 Reach me at: `roshanpanditofficial@gmail.com`
+- 📫 Reach me at: `roshanpandit9922@gmail.com`
 
 ---
 
@@ -84,8 +84,8 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/roshanpandit" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:roshanpanditofficial@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/roshan-pandit-169648276/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:roshanpandit9922@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
